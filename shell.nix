@@ -17,6 +17,7 @@ pkgs.mkShell {
 
     python3Packages.torch
     python3Packages.torchvision
+    python3Packages.transformers
 
     wget
     unzip
